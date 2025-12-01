@@ -4,8 +4,8 @@ A generic setup playlist showing you how to setup your Mac for all **dev step by
 
 Course Playlist on YouTube :
 
-https://youtube.com/playlist?list=PLXkU-CEX2HcWgeplJy9iRPC8P1wEEQ4IX&si=8crcD25h8B78-MqT
+https://www.youtube.com/playlist?list=PLjDzUUCRrEsaNR_0ouekFxBbUxRVSht01
 
 All **dev step by step** Playlists on YouTube :
 
-https://www.youtube.com/@devstepbystep/playlists
+https://www.youtube.com/@oxford-dev-tutorials/playlists
